@@ -1,4 +1,4 @@
-#extends TileMapLayer
+extends TileMapLayer
 
 #var tiless
 #var map
